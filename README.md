@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TECNIVA!<br>🌱 I’m currently learning backend!<br>💬 Ask me about python!<br>⚡ I always search a solution!
+🌱 I’m currently learning backend!<br>💬 Ask me about python!<br>⚡ I always search a solution!
 
 
 ## 🌐 Socials:
