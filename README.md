@@ -3,15 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/andresbamba_edu" target="blank"><img src="https://img.shields.io/twitter/follow/andresbamba_edu?logo=twitter&style=for-the-badge" alt="andresbamba_edu" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+Hello, my name is Andres Arciniega. I've been studying computer systems engineering since 2019 at the Tecnológico Nacional de México campus Querétaro. I am highly interested in backend development and have extensive experience in developing mobile and web applications. I worked for a year as a trainee developer at TECNIVA, where I was involved in various projects:
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndresEdu?tab=repositories](https://github.com/AndresEdu?tab=repositories)
+I created an RPA in collaboration with Electroneek to schedule appointments at a hospital.
+I implemented a Microsoft Azure B2C login in a Flutter application with two-step authentication.
+I built RIFAWAY.COM using Wordpress and Elementorpro, along with a payment gateway.
+Additionally, I've been developing in different programming languages such as Python, Java, C#, JS, PHP, and have worked with various databases like Oracle and MySQL. I consider myself quite adaptable in learning, and undoubtedly, if I don’t understand something, I thoroughly research it. I have a knack for understanding, the ability to convey my ideas, and the creativity to execute them. On my own, I've developed projects, some of which include:
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **andreseduarci@gmail.com**
-
-- ⚡ Fun fact **I'm always try.**
+SIA, an inventory control system involving storage management and tracking of inputs/outputs for Extinguidores Alpha, a company in Querétaro.
+An API for inventory control at the Advanced Manufacturing Laboratory of the Tecnológico Nacional de México campus Quéretaro.
+Without a doubt, I believe I have what it takes to develop, code, and learn whatever is necessary to be effective in the assigned work. Feel free to contact me at andreseduarci@gmail.com .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
